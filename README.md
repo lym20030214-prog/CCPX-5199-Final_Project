@@ -24,7 +24,7 @@ The notebook reads two Stata `.dta` files from the ICPSR Add Health Public-Use r
 | `21600-0001-Data.dta` | Wave I (1994–95) | In-home interview: depression items (H1FS1–H1FS19), baseline math grade (H1ED12), gender (BIO_SEX), mother's education (H1RM1), self-efficacy items (H1SE1–H1SE4), grade level (H1GI20) |
 | `21600-0005-Data.dta` | Wave II (1996) | In-home interview: outcome math grade (H2ED8) |
 
-> **Note on data access: These are ICPSR Add Health public-use files, freely available after creating an ICPSR MyData account and agreeing to the Terms of Use. They are not included in this repository — download from https://www.icpsr.umich.edu/web/ICPSR/studies/21600
+> Note on data access: These are ICPSR Add Health public-use files, freely available after creating an ICPSR MyData account and agreeing to the Terms of Use. They are not included in this repository — download from https://www.icpsr.umich.edu/web/ICPSR/studies/21600
 
 ### Constructed variables
 
