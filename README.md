@@ -101,8 +101,7 @@ pip install pyreadstat pandas numpy scipy statsmodels matplotlib
 
 ## 5. Summary of Results
 
-All effects below are at α = .05, two-tailed. Full statistics print to stdout when you run the corresponding cells.
-
+All effects below are at α = .05, two-tailed. 
 **Q1 — Gender differences in depression (Cell 5).** Girls reported significantly higher Wave I depression severity than boys.
 
 ```text
