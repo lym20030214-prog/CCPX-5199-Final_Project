@@ -24,7 +24,7 @@ The notebook reads two Stata `.dta` files from the ICPSR Add Health Public-Use r
 | `21600-0001-Data.dta` | Wave I (1994–95) | In-home interview: depression items (H1FS1–H1FS19), baseline math grade (H1ED12), gender (BIO_SEX), mother's education (H1RM1), self-efficacy items (H1SE1–H1SE4), grade level (H1GI20) |
 | `21600-0005-Data.dta` | Wave II (1996) | In-home interview: outcome math grade (H2ED8) |
 
-> **Note on data access:** These files are restricted-distribution but freely available from ICPSR. They are **not** included in this repository. Download them from <https://www.icpsr.umich.edu/web/ICPSR/studies/21600> and place them at the paths listed in the next section.
+> **Note on data access:** These files are restricted-distribution but freely available from ICPSR. Download them from <https://www.icpsr.umich.edu/web/ICPSR/studies/21600> and place them at the paths listed in the next section.
 
 ### Constructed variables
 
@@ -152,6 +152,14 @@ Subgroup, dep ≥ 1.74 (N = 28):    Girls (M = 2.19) < Boys (M = 2.86), p = .194
 ### Headline takeaway
 
 Girls in this sample outperform boys in math on average, **and** they are more vulnerable to the academic cost of depression. Beneath the achievement gap that favors girls sits a steeper psychological cost: when depression severity is high enough (above ≈ 1.74 on the 0–3 scale), the female advantage disappears in this small subgroup, though that reversal is not statistically reliable. The pattern motivates further research into gender-specific protective and vulnerability factors that the depression-only model does not capture.
+
+## 6. Citation
+ 
+> Harris, K. M., Halpern, C. T., Whitsel, E. A., Hussey, J. M., Killeya-Jones, L. A., Tabor, J., & Dean, S. C. (2019). Cohort profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health). *International Journal of Epidemiology*, 48(5), 1415–1425. https://doi.org/10.1093/ije/dyz115
+ 
+---
+
+
 
 
 
