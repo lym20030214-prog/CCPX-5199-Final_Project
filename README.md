@@ -119,7 +119,7 @@ Multiple regression:  β = −0.1903   t = −4.3181   p < .001
    (controls: ses_w1, se_w1, gpa_w1)
 ```
 
-**Q3 — Moderation by gender (Cell 7).** The Depression × Gender interaction was statistically significant. Girls' slope was substantially steeper than boys', meaning depression eroded math performance faster for girls.
+**Q3 — Moderation by gender (Cell 7).** The Depression × Gender interaction reached statistical significance, though the p-value is borderline (p ≈ .049) and should be interpreted as marginal evidence rather than a robust effect. Girls' slope was substantially steeper than boys', meaning depression eroded math performance faster for girls.
 
 ```text
 Interaction (Depression_c × Gender):  β = −0.1750   t = −1.97   p ≈ .049
