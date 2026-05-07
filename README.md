@@ -7,7 +7,7 @@
 This project conducts a longitudinal, secondary-data analysis to test how depressive symptoms in early adolescence relate to math academic achievement one year later, and whether gender moderates that relationship. Specifically, the notebook addresses four research questions using Wave I (1994–95) and Wave II (1996) of the **National Longitudinal Study of Adolescent to Adult Health (Add Health)**:
 
 1. **Gender differences in depression** — Do girls report higher Wave I depression severity than boys?
-2. **Depression → Math GPA** — Does Wave I depression negatively predict Wave II math GPA, after controlling for baseline GPA, SES, and self-efficacy?
+2. **Depression predicts Math GPA** — Does Wave I depression negatively predict Wave II math GPA, after controlling for baseline GPA, SES, and self-efficacy?
 3. **Moderation by gender** — Does gender change the strength of the depression → math GPA relationship?
 4. **Gender gap in math GPA** — How do girls' and boys' mean math GPAs compare at Wave I and Wave II, overall and within depression-severity subgroups?
 
