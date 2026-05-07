@@ -146,7 +146,7 @@ Girls in this sample outperform boys in math on average, **and** they are more v
  
 > Harris, K. M., Halpern, C. T., Whitsel, E. A., Hussey, J. M., Killeya-Jones, L. A., Tabor, J., & Dean, S. C. (2019). Cohort profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health). *International Journal of Epidemiology*, 48(5), 1415–1425. https://doi.org/10.1093/ije/dyz115
  
----
+
 
 
 
