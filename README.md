@@ -1,10 +1,8 @@
-# Understanding the Math Achievement Gap
+# Gender as a Moderator of the Association between Depression Vulnerability and Math GPA during Adolescence
 
-**Gender as a Moderator of the Association between Depression Vulnerability and Math GPA during Adolescence**
+****
 
-Authors: Hayley Han, Yiming Lin
-Course: HUDK 5500 — Capstone Project (analysis notebook: `CCPX_5199_Final.ipynb`)
-Date: April 2026
+
 
 ---
 
