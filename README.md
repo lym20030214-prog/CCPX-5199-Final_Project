@@ -80,26 +80,15 @@ Figs 1–3 Mean depression by gender; simple-slopes plot; mean math GPA by gende
 
 ## 4. Dependencies
 
-Tested with Python 3.10. All packages are pinned-loose; any modern version should work.
+Tested with Python 3.10. All packages are pinned loosely; any modern version should work.
 
-```text
+```
 pyreadstat>=1.2     # read Stata .dta files
 pandas>=1.5
 numpy>=1.23
 scipy>=1.10         # ttest_ind, t.interval
 statsmodels>=0.14   # OLS via formula API (smf.ols)
 matplotlib>=3.7
-```
-
-`requirements.txt`:
-
-```
-pyreadstat
-pandas
-numpy
-scipy
-statsmodels
-matplotlib
 ```
 
 Install everything with:
