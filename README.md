@@ -140,7 +140,7 @@ Subgroup, dep ≥ 1.74 (N = 28):    Girls (M = 2.19) < Boys (M = 2.86), p = .194
 
 ### Takeaway
 
-Girls in this sample outperform boys in math on average, **and** they are more vulnerable to the academic cost of depression. Beneath the achievement gap that favors girls sits a steeper psychological cost: when depression severity is high enough (above ≈ 1.74 on the 0–3 scale), the female advantage disappears in this small subgroup, though that reversal is not statistically reliable. The pattern motivates further research into gender-specific protective and vulnerability factors that the depression-only model does not capture.
+Girls in this sample outperform boys in math on average, and they are more vulnerable to the academic cost of depression. Beneath the achievement gap that favors girls sits a steeper psychological cost: when depression severity is high enough (above ≈ 1.74 on the 0–3 scale), the female advantage disappears in this small subgroup, though that reversal is not statistically reliable. The pattern motivates further research into gender-specific protective and vulnerability factors that the depression-only model does not capture.
 
 ## 6. Citation
  
