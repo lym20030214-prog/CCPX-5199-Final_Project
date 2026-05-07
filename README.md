@@ -1,9 +1,5 @@
 # Gender as a Moderator of the Association between Depression Vulnerability and Math GPA during Adolescence
 
-****
-
-
-
 ---
 
 ## 1. Aim of the Analysis
@@ -183,33 +179,7 @@ Girls in this sample outperform boys in math on average, **and** they are more v
 
 ---
 
-## 6. Limitations
 
-- Add Health data are from the mid-1990s; generalizability to current adolescent cohorts is not guaranteed.
-- The sample is U.S.-based; cross-cultural replication is needed.
-- Math GPA is self-reported letter grades coded to a 1–4 ordinal scale; it is a coarse proxy for math ability.
-- The longitudinal design supports temporal precedence but not causal identification; unmeasured confounders may remain.
-
----
-
-## 7. Citation
-
-If you build on this analysis, please cite the underlying dataset:
-
-> Harris, K. M., Halpern, C. T., Whitsel, E. A., Hussey, J. M., Killeya-Jones, L. A., Tabor, J., & Dean, S. C. (2019). Cohort profile: The National Longitudinal Study of Adolescent to Adult Health (Add Health). *International Journal of Epidemiology*, 48(5), 1415–1425. https://doi.org/10.1093/ije/dyz115
-
----
-
-## 8. Repository Layout (suggested)
-
-```
-.
-├── README.md                  ← this file
-├── requirements.txt
-├── CCPX_5199_Final.ipynb      ← analysis notebook
-└── data/                      ← not committed; download from ICPSR 21600
-    ├── 21600-0001-Data.dta
-    └── 21600-0005-Data.dta
 ```
 
 
