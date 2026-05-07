@@ -41,9 +41,9 @@ The notebook reads two Stata `.dta` files from the ICPSR Add Health Public-Use r
 
 ## 3. How to Run
 
-The notebook was authored in **Google Colab** (paths default to `/content/...`). It also runs locally with minimal changes.
+The notebook was authored in **Google Colab** (paths default to `/content/...`). 
 
-### Option A — Google Colab (as written)
+### Google Colab 
 
 ```text
 1. Upload 21600-0001-Data.dta and 21600-0005-Data.dta to the Colab session
@@ -54,30 +54,6 @@ The notebook was authored in **Google Colab** (paths default to `/content/...`).
 
 The first cell installs `pyreadstat` (`!pip install pyreadstat`); the rest of the notebook runs end-to-end and prints all tables plus three figures.
 
-### Option B — Local Jupyter
-
-```bash
-# 1. Clone or download this repo and cd into it
-git clone <your-repo-url> && cd <repo-name>
-
-# 2. Create and activate an environment (Python ≥ 3.9 recommended)
-python -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Place data files in a ./data folder (or wherever you prefer)
-mkdir -p data
-# copy 21600-0001-Data.dta and 21600-0005-Data.dta into ./data/
-
-# 5. Edit the two path constants at the top of the notebook:
-#       W1 = "data/21600-0001-Data.dta"
-#       W2 = "data/21600-0005-Data.dta"
-
-# 6. Launch Jupyter
-jupyter notebook CCPX_5199_Final.ipynb
-```
 
 ### Notebook structure
 
