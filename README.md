@@ -2,6 +2,9 @@
 
 ---
 
+## 0. Why project
+I chose this topic because I am personally interested in how mental health affects academic outcomes in adolescents, particularly whether that relationship looks different for boys and girls. When selecting a dataset, Add Health was a strong fit. The dataset includes measures of depressive symptoms, academic performance, SES, and self-efficacy all in one longitudinal design. The main limitation of this choice is that the data are from 1994–1996, which is now about 30 years old. Adolescent mental health and academic contexts have changed considerably since then, so the findings may not fully reflect today's students. 
+
 ## 1. Aim of the Analysis
 
 This project conducts a longitudinal, secondary-data analysis to test how depressive symptoms in early adolescence relate to math academic achievement one year later, and whether gender moderates that relationship. Specifically, the notebook addresses four research questions using Wave I (1994–95) and Wave II (1996) of the **National Longitudinal Study of Adolescent to Adult Health (Add Health)**:
@@ -140,7 +143,9 @@ Subgroup, dep ≥ 1.74 (N = 28):    Girls (M = 2.19) < Boys (M = 2.86), p = .194
 
 ### Takeaway
 
-Girls in this sample outperform boys in math on average, and they are more vulnerable to the academic cost of depression. Beneath the achievement gap that favors girls sits a steeper psychological cost: when depression severity is high enough (above ≈ 1.74 on the 0–3 scale), the female advantage disappears in this small subgroup, though that reversal is not statistically reliable. The pattern motivates further research into gender-specific protective and vulnerability factors that the depression-only model does not capture.
+Girls in this sample score higher in math than boys on average. This female advantage is consistent across most of the sample. However, depression does not affect both genders equally. Girls show a steeper drop in math performance as depression severity increases. This means depression is more academically costly for girls than for boys.
+When depression is mild to moderate, girls still outperform boys. But when depression is severe (above approximately 1.74 on the 0–3 scale) the female advantage disappears. In this high-severity subgroup, boys and girls perform similarly. This reversal is based on a small number of participants, so it is not statistically reliable and should be interpreted with caution.
+The pattern raises an important question that why are girls more vulnerable to the academic effects of depression? One possibility is that boys and girls have different psychological risk and protective factors that influence how depression translates into academic outcomes. A model that only looks at depression severity cannot answer this question. Future research should examine gender-specific factors that may explain why the same level of depression has a larger academic impact on girls than on boys.
 
 ## 6. Citation
  
