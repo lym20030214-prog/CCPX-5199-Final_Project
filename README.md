@@ -2,7 +2,7 @@
 
 ---
 
-## 0. Why project
+## 0. Why Project
 I chose this topic because I am personally interested in how mental health affects academic outcomes in adolescents, particularly whether that relationship looks different for boys and girls. When selecting a dataset, Add Health was a strong fit. The dataset includes measures of depressive symptoms, academic performance, SES, and self-efficacy all in one longitudinal design. The main limitation of this choice is that the data are from 1994–1996, which is now about 30 years old. Adolescent mental health and academic contexts have changed considerably since then, so the findings may not fully reflect today's students. 
 
 ## 1. Aim of the Analysis
